@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.alarmclock.app-mergeDebugResources-30:/layout/activity_notification.xml",
+        "source": "com.example.alarmclock.app-main-33:/layout/activity_notification.xml"
+    },
+    {
+        "merged": "com.example.alarmclock.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.alarmclock.app-main-33:/layout/activity_main.xml"
+    }
+]
